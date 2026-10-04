@@ -1,11 +1,11 @@
 {
-  "topic": "Your Topic",
-  "repo": "ianwieds/awesome-template",
-  "tagline": "A curated list of Your Topic libraries, tools and guides.",
-  "scope": "It is about Your Topic, not just a project that happens to use it.",
-  "accent": "FFA000",
+  "topic": "Agent Protocols",
+  "repo": "ianwieds/awesome-agent-protocols",
+  "tagline": "The open protocols and conventions agents speak: tool access, agent-to-agent messaging, agent UIs, payments and instruction files.",
+  "scope": "It is a protocol, spec or convention for agents, or an SDK or tool built for one, not an agent product that merely supports some.",
+  "accent": "F43F5E",
   "minStars": 10,
-  "maxInactiveMonths": 0,
+  "maxInactiveMonths": 12,
   "maintainer": { "name": "Ian Wiedenman", "url": "https://github.com/ianwieds" },
-  "heroAlt": "Animated isometric scene for Your Topic."
+  "heroAlt": "Animated isometric scene: six agent towers stand in a ring joined by a mesh of ground lanes, envelopes shaped as squares, hexagons and diamonds travel between them, each tower's top lights in the envelope's colour as one lands, and a short handshake pulse runs back to the sender."
 }
