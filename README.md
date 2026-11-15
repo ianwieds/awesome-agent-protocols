@@ -221,10 +221,10 @@ Agent protocols are the shared wire formats and file conventions that let AI age
 - [Awesome WebMCP](https://github.com/webmachinelearning/awesome-webmcp) - List of WebMCP resources from the proposal's community group.
 - [Awesome x402](https://github.com/xpaysh/awesome-x402) - List of x402 resources, SDKs and services.
 
+<!-- awesome:footer -->
 ## Contributing
 
 Contributions are welcome. Read the [contribution guidelines](contributing.md) first.
 
-<!-- awesome:maintainer -->
 Maintained by [Ian Wiedenman](https://github.com/ianwieds).
-<!-- /awesome:maintainer -->
+<!-- /awesome:footer -->
