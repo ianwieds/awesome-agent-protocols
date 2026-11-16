@@ -179,7 +179,7 @@ Agent protocols are the shared wire formats and file conventions that let AI age
 
 - [Agent Directory](https://github.com/agntcy/dir) - AGNTCY service that announces and finds agents by their OASF records.
 - [Agent Identity and Discovery](https://aid.agentcommunity.org) - Spec that publishes an agent's endpoint and protocol in a DNS TXT record.
-- [Agent Name Service](https://genai.owasp.org/resource/agent-name-service-ans-for-secure-al-agent-discovery-v1-0/) - OWASP GenAI paper on DNS-style names and PKI identity for finding agents.
+- [Agent Name Service](https://datatracker.ietf.org/doc/draft-narajala-courtney-ansv2/) - IETF draft for domain-anchored agent names with versioned certificates and a transparency log.
 - [AGNTCY Identity](https://github.com/agntcy/identity) - Issues and verifies identities for agents, MCP servers and multi-agent systems.
 - [AI Catalog](https://github.com/Agent-Card/ai-catalog) - Draft shared catalog format, from MCP and A2A members, for finding AI artifacts.
 - [ANS](https://github.com/agentnameservice/ans) - Registry and transparency log implementing the IETF Agent Name Service draft.
